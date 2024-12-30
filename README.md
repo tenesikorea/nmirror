@@ -22,4 +22,5 @@ https://github.com/ReVanced/GmsCore/releases 이링크는 microg라던 로그인
 엔미러 테네시 설정용 다운로드 링크
 http://naver.me/5vcfcIYA  암호걸려있음
 
-
+어플설치 링크 - 암호 걸려있음
+http://naver.me/GrmFFBWq
